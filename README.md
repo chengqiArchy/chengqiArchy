@@ -1,6 +1,6 @@
 ## Hi, I'm Chengqi ZHENG. You can call me Archy
 
-I'm now working as a Research Intern in CFAR, A*Star Group. My topics are related to Reinfocement Learning. I hope this github can record my progess!
+I'm now working as a Research Intern in CFAR, A*Star Group. My topics are related to Reinfocement Learning and Agentic AI. I hope this github can record my progess!
 
 #### In 2025 ~~2024~~, my targets are:
 - [x] Implementation of basic algorithm of RL. 🧑‍🚒
