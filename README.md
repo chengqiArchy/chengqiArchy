@@ -9,4 +9,4 @@ I'm now working as a Research Intern in CFAR, A*Star Group. My topics are relate
 - [x] (2024) Study eecs127 and information theory. Build a solid math fundamental! 📐
 - [x] (2024) Study DL systems to deepen the understanding of dl frawework. 🪿
 - [ ] (2024) Get the Computer Science PhD scholarship in `Large Model` ~~Reinforcement Learning~~ field🥳
-- [ ] (new 2025)Study MIT 6.006 to create a very solide `solving problem by codes` ability! 🥹
+- [ ] (new 2025)Study CS170 ~~MIT 6.006 (it has too much content about datastructure)~~ to create a very solide `solving problem by codes` ability! 🥹
